@@ -7,13 +7,16 @@ Ribo-seq and RNA-seq data are available on the NCBI Gene Expression Omnibus (GEO
 
 csv file contents:
 
-ribosomerescuefactorpresenceandgenomeassemblies.csv
+ribosomerescuefactorpresenceandgenomeassemblies.csv:
+
 Accession numbers of genomes that were searched for the presence or absence of ssrA, smpB, rqcH, mutS2, hrpA, smrB, and rae1. Gene presence is indicated as TRUE.
 
-allquerysequencesforrescuefactorphylogeny.csv
+allquerysequencesforrescuefactorphylogeny.csv:
+
 Gene sequences of ssrA, smpB, rqcH, mutS2, hrpA, smrB, and rae1 that were used to build HMMER profiles.
 
-randomgenomes.csv
+randomgenomes.csv:
+
 Random genomes in each of the 21 bacterial phyla that were used to build a maximum-likelihood tree.
 
 
